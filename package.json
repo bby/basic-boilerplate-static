@@ -28,7 +28,6 @@
     "html-minifier": "^0.7.2",
     "http-server": "^0.8.0",
     "nodemon": "^1.4.1",
-    "watch": "^0.16.0",
     "clean-css": "^3.4.1",
     "parallelshell": "^2.0.0",
     "sizzle": "^2.2.0"
