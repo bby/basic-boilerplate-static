@@ -1,0 +1,28 @@
+TBD: 
+
+- Documentation generation
+- Testing
+
+- Boilerplate
+
+An opinionated default boiler plate project for static websites without framework or templating dependencies and using just npm as the build manager/task runner.
+
+* npm is used for managing dependencies and as the overall build manager
+* webpack as the js management and build tool
+* imageoptim cli for optimisation of images (the pay for app jpegmini is not called)
+* sizzle is included by default for the basics
+* jquery is included but webpack and module selection can be used to minimise cruft
+
+-- Setup
+
+install node
+install npm
+
+npm install
+
+npm start
+
+
+-- Installing additional JS libraries
+
+npm install jquery --save-dev
