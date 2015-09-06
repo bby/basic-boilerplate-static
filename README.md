@@ -1,4 +1,5 @@
-- Boilerplate
+Boilerplate
+-------------
 
 An opinionated default boiler plate project for basic static websites without framework or templating dependencies and using just npm as the build manager/task runner.
 
@@ -8,16 +9,18 @@ An opinionated default boiler plate project for basic static websites without fr
 * sizzle is included by default for the basics
 * jquery is included but webpack and module selection can be used to minimise cruft
 
--- Setup
+Instructions
+--------------
 
-install node
-install npm
+    npm install
+    npm start
 
-npm install
+to build;
 
-npm start
+    npm run build
 
--- TBD
+TBD
+--------
 
 - Documentation generation
 - Testing
