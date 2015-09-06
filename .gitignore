@@ -3,7 +3,7 @@
 /*.sublime-workspace
 
 # Build
-/build
+/dist
 
 # Logs
 logs
