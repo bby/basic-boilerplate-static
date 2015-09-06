@@ -31,7 +31,6 @@
     "watch": "^0.16.0",
     "clean-css": "^3.4.1",
     "parallelshell": "^2.0.0",
-    "live-reload": "^1.1.0",
     "sizzle": "^2.2.0"
   }
 }
